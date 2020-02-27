@@ -5,3 +5,7 @@ Basic template for Dalkak extension (TypeScript version)
 ```sh
 npm run build
 ```
+## Upload
+```sh
+npm publish
+```
